@@ -1,6 +1,6 @@
 # Euclidean Algorithm
 
-euclidAlgo.py was made in tandem with my Chaos and Fractals course, MATH320, where we were to solve greatest common demoninator (GCD) using the Euclidean Algorithm
+euclidAlgo.py was made in tandem with my Chaos and Fractals course, MATH320, where we were to solve greatest common demoninator (GCD) using the [Euclidean Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
 
 This system has 3 states:
 
