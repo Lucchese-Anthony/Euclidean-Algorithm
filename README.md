@@ -22,4 +22,9 @@ So as an example we will assume the formula Euc(520221547, 498672943)
     46642 % 23321 = 0
 
 meaning 23321 is the GCD / Greatest Common Denominator
-# Euclidean-Algorithm
+
+uses:
+
+`python3 euclidAlgo.py (arg1) (arg2)`
+or
+`python3 euclidAlgo.py`
